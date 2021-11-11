@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.71d76b12.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.1d783658.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.1d783658.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.d15608c2.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.d15608c2.js.map",
+    "static/js/2.1a2e4dea.chunk.js": "/reactlivewebsite/static/js/2.1a2e4dea.chunk.js",
+    "static/js/2.1a2e4dea.chunk.js.map": "/reactlivewebsite/static/js/2.1a2e4dea.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "precache-manifest.f70927793312da2cfe17eb7ce1dcc4c5.js": "/reactlivewebsite/precache-manifest.f70927793312da2cfe17eb7ce1dcc4c5.js",
+    "service-worker.js": "/reactlivewebsite/service-worker.js",
+    "static/css/main.71d76b12.chunk.css.map": "/reactlivewebsite/static/css/main.71d76b12.chunk.css.map",
+    "static/js/2.1a2e4dea.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.1a2e4dea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d15608c2.js",
+    "static/js/2.1a2e4dea.chunk.js",
+    "static/css/main.71d76b12.chunk.css",
+    "static/js/main.1d783658.chunk.js"
+  ]
+}
